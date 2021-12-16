@@ -1,0 +1,17 @@
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Course.exe
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Course.pdb
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Course.exe.config
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\andyr\source\repos\Course\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\andyr\source\repos\Course\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\andyr\source\repos\Course\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\andyr\source\repos\Course\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\andyr\source\repos\Course\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\andyr\source\repos\Course\UnitTests\obj\Debug\UnitTests.pdb
